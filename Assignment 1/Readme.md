@@ -8,3 +8,6 @@ Requirements for the workflow to work
 A Sandbox Gmail Account: A test email inbox to receive the test phishing mail and send out the automated user education alerts.
 
 A VirusTotal API Key
+
+
+Access the "workflow.json" file 
